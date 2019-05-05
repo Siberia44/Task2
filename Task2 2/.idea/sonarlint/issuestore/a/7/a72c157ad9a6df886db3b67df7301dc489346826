@@ -1,0 +1,6 @@
+
+¤squid:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ8Â•”¼¨-
+qsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü8Â•”¼¨-
+Jsquid:S1168˜"+Return an empty collection instead of null.(¥¹ï8Â•”¼¨-
+Ÿsquid:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÄï¦8Â•”¼¨-
+>squid:S2326"T is not used in the class.(İ½†Øüÿÿÿÿ8¥ß¼¨-
